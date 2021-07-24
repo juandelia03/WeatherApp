@@ -104,7 +104,7 @@ export default {
 }
 .search {
   height: 50px;
-  width: 90%;
+  width: 500px;
   border-radius: 50px;
   border-color: white;
   border-style: none;
